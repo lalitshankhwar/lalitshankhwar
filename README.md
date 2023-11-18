@@ -3,7 +3,7 @@
 </div>
 <h3> Hey there <img src="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif" width="25"/></h3>
 
-I'm Lalit Kumar, front-end web developer, skilled in front-end technologies and keen interest 'in full stack development. Above all, I'm a meticulous learner, good at problem-solving, passionate about altruistic causes using technology and stay updated with the latest industry trends.
+I'm Lalit Kumar, a front-end web developer, skilled in front-end technologies and keen interest 'in full stack development. Above all, I'm a meticulous learner, good at problem-solving, passionate about altruistic causes using technology and stay updated with the latest industry trends.
 ### 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lalitshankhwar/)
 
